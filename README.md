@@ -6,7 +6,7 @@ I am a front-end developer & pharmacist.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/羽筑-鄭-a86a6220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="鄭羽筑" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yu-chu-cheng-a86a6220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="鄭羽筑" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/HeronCheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heroncheng" height="30" width="40" /></a>
 </p>
 
